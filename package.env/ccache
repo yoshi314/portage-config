@@ -1,0 +1,22 @@
+*/* linguas.conf
+app-text/asciidoc python-2.7.conf python-single-2.7.conf
+app-emulation/wine-staging ccache.conf
+dev-qt/qtwebkit ccache.conf
+dev-python/PyQt5 ccache.conf
+dev-qt/qtwebengine ccache.conf
+games-fps/gzdoom ccache.conf
+media-libs/mesa ccache.conf
+app-office/libreoffice ccache.conf
+sys-devel/llvm ccache.conf
+sys-devel/clang ccache.conf
+sys-apps/systemd ccache.conf
+media-video/ffmpeg ccache.conf
+net-libs/webkit-gtk ccache.conf
+sys-apps/systemd ccache.conf
+sys-devel/clang ccache.conf
+x11-libs/wxGTK ccache.conf
+x11-drivers/nvidia-drivers ccache.conf
+media-video/mkvtoolnix ccache.conf
+net-libs/nodejs ccache.conf
+games-emulation/pcsx2 ccache.conf
+games-util/qcma ccache.conf

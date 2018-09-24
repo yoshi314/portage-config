@@ -1,0 +1,6 @@
+# required by sway (argument)
+=wayland-wm/sway-9999 **
+# required by wayland-wm/sway-9999::zetok-overlay
+# required by sway (argument)
+=dev-libs/wlc-9999 **
+
