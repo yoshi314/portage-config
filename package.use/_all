@@ -1,0 +1,7 @@
+net-misc/iputils -caps -filecaps
+dev-libs/boost icu
+media-video/handbrake gtk
+dev-libs/libxml2 python
+sys-apps/pacman gpg
+games-emulation/retroarch -sdl -cg
+dev-libs/glib utils

@@ -1,0 +1,5 @@
+>=dev-libs/libxml2-2.9.9-r1 icu
+media-video/subtitlecomposer mpv
+media-video/mpv libmpv
+net-misc/remmina rdp
+

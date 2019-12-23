@@ -1,0 +1,3 @@
+dev-qt/qtwebkit 5-threads.conf
+dev-qt/qtwebengine 5-threads.conf
+dev-python/zstandard 1-thread.conf

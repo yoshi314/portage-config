@@ -1,0 +1,110 @@
+>=media-libs/harfbuzz-1.2.4 icu
+media-libs/gst-plugins-bad opengl egl gtk
+media-libs/libsdl2 gles haptic
+dev-python/PyQt4 svg webkit
+gnome-base/gnome-settings-daemon policykit
+app-crypt/pinentry gnome-keyring
+app-crypt/gcr gtk
+gnome-base/gnome-control-center networkmanager
+app-misc/tracker -ffmpeg
+games-emulation/snes9x gtk
+media-libs/sdl-mixer midi
+dev-python/PyQt5 gui widgets declarative sql -webengine webchannel
+dev-python/pillow tiff
+dev-lang/python tk ithreads
+dev-libs/efl sound gles -opengl -sdl
+media-libs/elementary -sdl
+media-libs/libwmf xml
+dev-libs/libverto glib
+app-office/libreoffice java
+media-video/vlc qt5 -qt4 xv vcd
+app-arch/pbzip2 symlink
+dev-libs/openssl -bindist
+sys-libs/libseccomp static-libs
+app-emulation/docker overlay btrfs
+media-gfx/imagemagick raw
+net-misc/youtube-dl offensive
+media-video/makemkv qt5
+app-editors/vim lua
+net-libs/polarssl havege
+games-emulation/common-shaders -cg
+dev-libs/gmime smime
+x11-themes/qtcurve qt5
+media-video/ffmpeg fdk
+dev-libs/xerces-c icu
+dev-lang/mono minimal
+app-editors/neovim -jemalloc
+gnome-base/gvfs mtp
+media-libs/freetype -cleartype_hinting
+sys-process/tini static
+x11-misc/lightdm qt5
+net-misc/aria2 xmlrpc
+app-emulation/libvirt fuse kxc lvm2 lvm
+net-dns/dnsmasq script
+app-emulation/virt-manager gtk
+app-emulation/libvirt-glib python
+net-misc/spice-gtk usb-redir usbredir
+net-libs/gtk-vnc python
+app-emulation/qemu spice usbredir gtk usb
+media-libs/vulkan-base tools
+media-libs/mesa -vulkan gles2 -d3d9
+media-sound/beets web replaygain
+dev-libs/m17n-lib libxml2
+app-i18n/ibus gtk
+dev-vcs/git subversion
+dev-vcs/subversion perl -dso
+x11-libs/wxGTK -webkit -sdl
+app-text/podofo tools
+app-text/mupdf -opengl
+dev-libs/xmlsec nss
+app-mobilephone/heimdall qt5
+sys-apps/smartmontools update_drivedb
+x11-base/xorg-server xvfb
+www-client/elinks -javascript
+media-libs/libvpx svc
+dev-utils/glib utils
+dev-qt/qtgui:5 
+dev-qt/qtcore:5 
+dev-qt/qtdbus:5 
+dev-qt/qtopengl:5 -gles
+dev-qt/qtwidgets:5 
+dev-qt/qtwebkit:5 
+dev-qt/qtdeclarative:5 
+dev-qt/qtwebengine widgets
+dev-qt/qtwebchannel qml
+media-video/chaplin transcode
+kde-apps/k3b encode
+games-emulation/pcsxr-pgxp -alsa -pulseaudio
+media-libs/sdl2-mixer midi
+x11-misc/redshift gtk geoclue
+x11-libs/libfm gtk
+app-arch/rpm python
+dev-util/astyle java
+sys-libs/tevent python
+sys-libs/tdb python
+dev-games/physfs hog mvl
+app-text/xmlto text
+net-p2p/syncthing tools
+media-gfx/exiv2 xmp
+app-emulation/wine-staging vkd3d
+mail-client/neomutt notmuch
+games-fps/yamagi-quake2 rogue xatrix
+x11-terms/st savedconfig
+sys-apps/util-linux static-libs
+sys-fs/cryptsetup static statis
+dev-qt/qtquickcontrols widgets
+sys-devel/llvm gold
+dev-qt/qtquickcontrols2 widgets
+dev-games/mygui -ogre
+app-text/stardict updateinfo
+media-gfx/sane-frontends gtk
+games-action/dxx-rebirth -data
+sys-apps/systemd policykit
+sys-apps/fwupd uefi
+dev-lang/perl ithreads
+media-sound/cantata -cddb replaygain musicbrainz cdio
+www-client/firefox lto
+sys-block/gparted fat
+net-print/gutenprint ppds
+net-print/cups zeroconf
+net-print/hplip scanner

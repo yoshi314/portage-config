@@ -1,0 +1,23 @@
+*/* python3.conf
+gnome-base/gconf		python-2.7.conf
+dev-vcs/mercurial		python-2.7.conf
+dev-python/pygments		add-python2.conf
+dev-python/setuptools		add-python2.conf
+dev-python/certifi		add-python2.conf
+dev-python/pillow		add-python2.conf
+dev-python/olefile		add-python2.conf
+dev-python/dbus-python		add-python2.conf
+dev-python/six			add-python2.conf
+dev-python/psutil		add-python2.conf
+dev-python/cffi		add-python2.conf
+dev-python/pycparser		add-python2.conf
+dev-python/ply			add-python2.conf
+
+app-arch/rpm 			python-single-2.7.conf
+net-mail/offlineimap		python-single-2.7.conf python-2.7.conf
+games-engines/gemrb		python-single-2.7.conf python-2.7.conf
+app-text/calibre		python-single-2.7.conf python-2.7.conf
+app-emulation/virtualbox-bin	python-single-2.7.conf python-2.7.conf
+app-text/asciidoc		python-single-3.7.conf	python3.conf
+media-gfx/inkscape 		python-single-3.7.conf python3.conf
+app-office/libreoffice 		python-single-3.7.conf python3.conf
