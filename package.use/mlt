@@ -1,2 +1,12 @@
 >=media-libs/mlt-6.18.0 frei0r qt5 xml
-media-libs/opencv qt5
+media-libs/opencv qt5 -gtk3
+app-misc/ddcutil user-permissions
+sys-fs/quota rpc
+net-libs/zeromq drafts
+media-libs/mlt jack
+www-client/firefox-bin -alsa
+app-arch/xz-utils static-libs
+media-libs/freeimage tiff
+net-fs/autofs mount-locking
+games-emulation/libretro-meta -4do -gambatte -stella -mgba -prosystem -dolphin -prboom -scummvm -nestopia -mupen64plus
+app-admin/testdisk qt5 ntfs

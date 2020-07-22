@@ -1,3 +1,3 @@
-sys-boot/grub grub_platforms_pc
+sys-boot/grub grub_platforms_pc device-mapper
 games-emulation/pcsxr -alsa -sdl
 net-libs/webkit-gtk 

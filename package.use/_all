@@ -3,5 +3,5 @@ dev-libs/boost icu
 media-video/handbrake gtk
 dev-libs/libxml2 python
 sys-apps/pacman gpg
-games-emulation/retroarch -sdl -cg
+games-emulation/retroarch -sdl -cg -armvfp
 dev-libs/glib utils

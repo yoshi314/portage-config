@@ -1,23 +1,54 @@
 */* python3.conf
 gnome-base/gconf		python-2.7.conf
-dev-vcs/mercurial		python-2.7.conf
-dev-python/pygments		add-python2.conf
+dev-python/six			add-python2.conf
 dev-python/setuptools		add-python2.conf
 dev-python/certifi		add-python2.conf
-dev-python/pillow		add-python2.conf
-dev-python/olefile		add-python2.conf
-dev-python/dbus-python		add-python2.conf
-dev-python/six			add-python2.conf
-dev-python/psutil		add-python2.conf
-dev-python/cffi		add-python2.conf
-dev-python/pycparser		add-python2.conf
-dev-python/ply			add-python2.conf
+#dev-vcs/mercurial		python-2.7.conf
+#dev-python/pygments		add-python2.conf
+#dev-python/pillow		add-python2.conf
+#dev-python/olefile		add-python2.conf
+#dev-python/dbus-python		add-python2.conf
+#dev-python/psutil		add-python2.conf
+#dev-python/cffi			add-python2.conf
+#dev-python/pycparser		add-python2.conf
+#dev-python/ply			add-python2.conf
+#dev-python/chardet		add-python2.conf
+#dev-python/html5-parser		add-python2.conf
+#dev-python/lxml			add-python2.conf
+#dev-python/markdown		add-python2.conf
+#dev-python/python-dateutil	add-python2.conf
+#dev-python/PyQt5		add-python2.conf
+#dev-python/sip			add-python2.conf
+#dev-python/PyQt5-sip		add-python2.conf
+#dev-python/cython		add-python2.conf
+#dev-python/python-enum34	add-python2.conf
+#virtual/python-enum34		add-python2.conf
+#dev-python/PyQtWebEngine	add-python2.conf
+#dev-python/pycryptodome		add-python2.conf
+#dev-python/idna			add-python2.conf
+#virtual/python-cffi		add-python2.conf
+#dev-python/zstandard		add-python2.conf
+#dev-python/mechanize		add-python2.conf
+#dev-python/html5lib		add-python2.conf
+#dev-python/webencodings		add-python2.conf
+#dev-python/beautifulsoup	add-python2.conf
+#dev-python/soupsieve		add-python2.conf
+#dev-python/backports		add-python2.conf
+#dev-python/backports-functools-lru-cache	add-python2.conf
+#dev-python/setuptools_scm	add-python2.conf
+#sys-fs/quota			add-python2.conf
+#app-text/calibre		python3.conf
 
-app-arch/rpm 			python-single-2.7.conf
-net-mail/offlineimap		python-single-2.7.conf python-2.7.conf
-games-engines/gemrb		python-single-2.7.conf python-2.7.conf
-app-text/calibre		python-single-2.7.conf python-2.7.conf
-app-emulation/virtualbox-bin	python-single-2.7.conf python-2.7.conf
+
+#app-arch/rpm 			python-single-2.7.conf
+#net-mail/offlineimap		python-single-2.7.conf python-2.7.conf
+#games-engines/gemrb		python-single-2.7.conf python-2.7.conf
+#app-emulation/virtualbox-bin	python-single-2.7.conf python-2.7.conf
 app-text/asciidoc		python-single-3.7.conf	python3.conf
 media-gfx/inkscape 		python-single-3.7.conf python3.conf
 app-office/libreoffice 		python-single-3.7.conf python3.conf
+
+
+
+#obsolete
+#app-text/calibre		python-single-2.7.conf python-2.7.conf

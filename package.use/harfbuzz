@@ -1,6 +1,6 @@
 >=media-libs/harfbuzz-1.2.4 icu
 media-libs/gst-plugins-bad opengl egl gtk
-media-libs/libsdl2 gles haptic
+media-libs/libsdl2 gles haptic gles2
 dev-python/PyQt4 svg webkit
 gnome-base/gnome-settings-daemon policykit
 app-crypt/pinentry gnome-keyring
@@ -22,15 +22,15 @@ app-arch/pbzip2 symlink
 dev-libs/openssl -bindist
 sys-libs/libseccomp static-libs
 app-emulation/docker overlay btrfs
-media-gfx/imagemagick raw
+media-gfx/imagemagick raw xml
 net-misc/youtube-dl offensive
 media-video/makemkv qt5
 app-editors/vim lua
 net-libs/polarssl havege
 games-emulation/common-shaders -cg
-dev-libs/gmime smime
+dev-libs/gmime smime vala
 x11-themes/qtcurve qt5
-media-video/ffmpeg fdk
+media-video/ffmpeg fdk chromium v4l
 dev-libs/xerces-c icu
 dev-lang/mono minimal
 app-editors/neovim -jemalloc
@@ -53,7 +53,7 @@ dev-libs/m17n-lib libxml2
 app-i18n/ibus gtk
 dev-vcs/git subversion
 dev-vcs/subversion perl -dso
-x11-libs/wxGTK -webkit -sdl
+x11-libs/wxGTK -webkit -sdl tiff
 app-text/podofo tools
 app-text/mupdf -opengl
 dev-libs/xmlsec nss
@@ -70,7 +70,7 @@ dev-qt/qtopengl:5 -gles
 dev-qt/qtwidgets:5 
 dev-qt/qtwebkit:5 
 dev-qt/qtdeclarative:5 
-dev-qt/qtwebengine widgets
+dev-qt/qtwebengine widgets -jumbo-build
 dev-qt/qtwebchannel qml
 media-video/chaplin transcode
 kde-apps/k3b encode
